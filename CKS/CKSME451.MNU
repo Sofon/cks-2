@@ -1,0 +1,4 @@
+CKSME45 MENU
+BEGIN
+	MENUITEM "Закрыть", 0
+END

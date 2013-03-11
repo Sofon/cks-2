@@ -1,0 +1,27 @@
+CKSMENU MENU
+BEGIN
+	POPUP "Регистрация"
+	BEGIN
+		MENUITEM "AFDPRO ..\CKS\CKS.QRT", 1
+	END
+	POPUP "Работа"
+	BEGIN
+		MENUITEM "№ 1. Подготовка носителя информации", 11
+		MENUITEM "№ 2. Схема загрузки", 12, GRAYED
+		MENUITEM "№ 3. Связный список кластеров", 13, GRAYED
+		MENUITEM "№ 4. Структура данных", 14, GRAYED
+		MENUITEM "№ 5. Процессы", 15, GRAYED
+		MENUITEM "№ 6. Схема взаимодействия процессов", 16, GRAYED
+		MENUITEM "№ 7. Кодовые страницы", 17, GRAYED
+		MENUITEM "№ 8. Верификация носителей информации", 18
+	END
+	MENUITEM "Отчет", 3
+	POPUP "Справка"
+	BEGIN
+		MENUITEM "Открыть", 0
+	END
+	POPUP "Выход"
+	BEGIN
+		MENUITEM "Из CKS", 8
+	END
+END

@@ -1,0 +1,11 @@
+CKSME11 MENU
+BEGIN
+	POPUP "Возврат"
+	BEGIN
+		MENUITEM "В меню работы", 10
+	END
+	POPUP "Выход"
+	BEGIN
+		MENUITEM "Из CKS", 8
+	END
+END

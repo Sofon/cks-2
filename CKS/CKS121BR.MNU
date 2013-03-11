@@ -1,0 +1,28 @@
+CKS121B MENU
+BEGIN
+	POPUP "Операция"
+	BEGIN
+		MENUITEM "Сохранить", 1212
+		MENUITEM "Закрыть", 1214
+		MENUITEM "Отменить", 1213
+	END
+	POPUP "Отображение"
+	BEGIN
+		MENUITEM "DIR", 132
+	END
+	POPUP "Эталон"
+	BEGIN
+		MENUITEM "BPB", 141
+		MENUITEM "Root dir", 142
+		MENUITEM "FAT", 143
+		MENUITEM "CP 1251", 144
+	END
+	POPUP "Возврат"
+	BEGIN
+		MENUITEM "В меню работы", 10
+	END
+	POPUP "Выход"
+	BEGIN
+		MENUITEM "Из CKS", 8
+	END
+END

@@ -1,0 +1,7 @@
+CKSME10 MENU
+BEGIN
+	POPUP "Выход"
+	BEGIN
+		MENUITEM "Из CKS", 8
+	END
+END

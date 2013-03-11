@@ -1,0 +1,4 @@
+CKSME63 MENU
+BEGIN
+	MENUITEM "Закрыть", 0
+END

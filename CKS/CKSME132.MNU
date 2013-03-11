@@ -1,0 +1,4 @@
+CKSME13 MENU
+BEGIN
+	MENUITEM "Закрыть", 132
+END

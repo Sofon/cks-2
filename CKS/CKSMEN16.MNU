@@ -1,0 +1,23 @@
+CKSMEN1 MENU
+BEGIN
+	POPUP "Задание"
+	BEGIN
+		MENUITEM "Вариант", 111
+		MENUITEM "Заключение", 112
+	END
+	POPUP "Сервис"
+	BEGIN
+		MENUITEM "Форматирование", 122
+		MENUITEM "Редактирование", 121
+		MENUITEM "Тестирование", 123
+		MENUITEM "COMMAND.COM", 124
+	END
+	POPUP "Справка"
+	BEGIN
+		MENUITEM "Открыть", 631
+	END
+	POPUP "Выход"
+	BEGIN
+		MENUITEM "Из CKS", 8
+	END
+END

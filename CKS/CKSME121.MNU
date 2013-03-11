@@ -1,0 +1,15 @@
+CKSME12 MENU
+BEGIN
+	POPUP "Операция"
+	BEGIN
+		MENUITEM "Открыть", 1211
+	END
+	POPUP "Возврат"
+	BEGIN
+		MENUITEM "В меню работы", 10
+	END
+	POPUP "Выход"
+	BEGIN
+		MENUITEM "Из CKS", 8
+	END
+END
